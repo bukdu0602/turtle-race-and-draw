@@ -5,7 +5,7 @@ from turtle import Turtle, Screen
 screen = Screen()
 screen.setup(width=500, height=400)
 user_bet = screen.textinput(title="Make your bet", prompt="Which turtle will win the race? Enter a color: ")
-colors = ["red", "blue", "orange", "green", "pink"]
+colors = ["red", "blue", "orange", "green", "pink"]cd us
 y = -100
 is_race_on = False
 turtles = []
@@ -32,7 +32,7 @@ while is_race_on:
                 print("You lose")
 
 
-# asdf
+# asdfasdf
 
 
 screen.exitonclick()
