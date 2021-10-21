@@ -32,7 +32,7 @@ while is_race_on:
                 print("You lose")
 
 
-# asdfasdfsdfasdfuyihjkjkl345asdfsdfafdsfeasdsadfsdf
+# asdfasdfsdfasdfuyihjkjkl345asdfsdfafdsfeasdsadfsdfasdf
 
 
 screen.exitonclick()
